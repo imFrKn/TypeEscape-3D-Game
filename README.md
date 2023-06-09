@@ -1,1 +1,3 @@
 # TypeEscape-3D-Game
+The player moves through the game using a combination of the framing interface and the gameplay mechanics. The framing interface typically consists of a computer where the game is played. The player interacts with the game using a keyboard for typing the required words or phrases. In terms of the game itself, the player’s character automatically moves forward in a continuous running motion. The player’s input comes into play when obstacles or enemies appear on the screen. To navigate through the obstacles, the player must type the corresponding words or phrases accurately and quickly. 
+
